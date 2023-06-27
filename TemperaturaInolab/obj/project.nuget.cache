@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8RQgh78Xte8UxWraQuPraaYhG8T9Cv7MgdKdsNnncuRHqKgJKubHeB6kCxr3PYlQcwsR/VusfUr20GdC+sBvKA==",
+  "dgSpecHash": "BZfJU7PPCBQ9GFpUjVfXTaDwqnyzWk5buetHN+u2r6rGInz1JWdaEgE6YhuqUU3RB5EqJ+JW3EXNQnbcNu+yCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandra INOLAB\\Desktop\\Proyectos INOLAB\\Sensores - Inoreport\\New version\\TemperaturaInolab\\TemperaturaInolab\\TemperaturaInolab.csproj",
+  "projectFilePath": "C:\\Users\\Sandra INOLAB\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandra INOLAB\\.nuget\\packages\\autoupdater.net.official\\1.8.3\\autoupdater.net.official.1.8.3.nupkg.sha512",
     "C:\\Users\\Sandra INOLAB\\.nuget\\packages\\dg.advanceddatagridview\\1.2.28103.10\\dg.advanceddatagridview.1.2.28103.10.nupkg.sha512",
