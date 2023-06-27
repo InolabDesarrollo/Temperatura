@@ -38,4 +38,11 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Modelo\" />
+    <Folder Include="Controlador\" />
+    <Folder Include="Entidades\" />
+    <Folder Include="Vista\" />
+  </ItemGroup>
+
 </Project>

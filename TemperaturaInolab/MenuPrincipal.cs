@@ -118,11 +118,12 @@ namespace TemperaturaInolab
                         extFile = Path.GetExtension(openFileDialog1.FileName);
                         MessageBox.Show("Leyendo Datos de Sensores", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                        Mostrar();
-                        Task task = new Task(() => { LecturaDatosSensores(); });
-                        task.Start();
-                        await task;
-                        Cerrar();
+                        //Mostrar();
+                        //Task task = new Task(() => { LecturaDatosSensores(); });
+                        //task.Start();
+                        //await task;
+                        //Cerrar();
+                        LecturaDatosSensores();
 
                     }
                     //MessageBox.Show(openFileDialog1.FileNames.Count & " " );                   
