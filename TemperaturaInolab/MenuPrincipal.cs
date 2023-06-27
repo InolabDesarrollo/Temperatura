@@ -15,6 +15,7 @@ namespace TemperaturaInolab
 {
     public partial class MenuPrincipal : MaterialForm
     {
+        //comentario rama sandra 
         Loading loading;
 
 
