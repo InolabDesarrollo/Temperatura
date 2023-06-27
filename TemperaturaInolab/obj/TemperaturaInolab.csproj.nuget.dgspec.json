@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sandra INOLAB\\Desktop\\Proyectos INOLAB\\Sensores - Inoreport\\New version\\TemperaturaInolab\\TemperaturaInolab\\TemperaturaInolab.csproj": {}
+    "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sandra INOLAB\\Desktop\\Proyectos INOLAB\\Sensores - Inoreport\\New version\\TemperaturaInolab\\TemperaturaInolab\\TemperaturaInolab.csproj": {
+    "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandra INOLAB\\Desktop\\Proyectos INOLAB\\Sensores - Inoreport\\New version\\TemperaturaInolab\\TemperaturaInolab\\TemperaturaInolab.csproj",
+        "projectUniqueName": "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
         "projectName": "TemperaturaInolab",
-        "projectPath": "C:\\Users\\Sandra INOLAB\\Desktop\\Proyectos INOLAB\\Sensores - Inoreport\\New version\\TemperaturaInolab\\TemperaturaInolab\\TemperaturaInolab.csproj",
-        "packagesPath": "C:\\Users\\Sandra INOLAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandra INOLAB\\Desktop\\Proyectos INOLAB\\Sensores - Inoreport\\New version\\TemperaturaInolab\\TemperaturaInolab\\obj\\",
+        "projectPath": "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
+        "packagesPath": "C:\\Users\\Omar Sotomayor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sandra INOLAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Omar Sotomayor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -90,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
