@@ -15,7 +15,7 @@ namespace TemperaturaInolab
 {
     public partial class MenuPrincipal : MaterialForm
     {
-        Loading loading;
+        Loading loading;//carga
 
 
         public MenuPrincipal()

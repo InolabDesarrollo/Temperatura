@@ -26,7 +26,6 @@ namespace TemperaturaInolab
             pbCarga.Load(@"Imagenes\Loading_2.gif");
             pbCarga.Location = new Point(this.Width / 2 - pbCarga.Width / 2, this.Height / 2 - pbCarga.Height / 2);
             lblCargando.Text = "Cargando " + sensores + " sensores...";
-
         }
 
 
