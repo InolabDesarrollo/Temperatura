@@ -11,6 +11,7 @@ using TemperaturaInolab.DataSQL;
 
 namespace TemperaturaInolab
 {
+    //comen
     public partial class Loading : Form
     {
         public Loading()

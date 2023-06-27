@@ -986,11 +986,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
       "projectName": "TemperaturaInolab",
       "projectPath": "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
       "packagesPath": "C:\\Users\\Omar Sotomayor\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Sandra INOLAB\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
+      "projectName": "TemperaturaInolab",
+      "projectPath": "C:\\Users\\Sandra INOLAB\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
+      "packagesPath": "C:\\Users\\Sandra INOLAB\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sandra INOLAB\\Source\\Repos\\Temperatura\\TemperaturaInolab\\obj\\",
+>>>>>>> produccion
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

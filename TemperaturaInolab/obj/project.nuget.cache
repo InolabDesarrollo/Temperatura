@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MDCdodY7p5/8XvjbVL2J0oMEsJa23poPfG8vQHpHSg+dHanM8sLr353e6eFN97M0zS9PNz5Tm0dmVa7HUpXl0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Omar Sotomayor\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
+=======
+  "dgSpecHash": "BZfJU7PPCBQ9GFpUjVfXTaDwqnyzWk5buetHN+u2r6rGInz1JWdaEgE6YhuqUU3RB5EqJ+JW3EXNQnbcNu+yCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sandra INOLAB\\Source\\Repos\\Temperatura\\TemperaturaInolab\\TemperaturaInolab.csproj",
+>>>>>>> produccion
   "expectedPackageFiles": [
     "C:\\Users\\Omar Sotomayor\\.nuget\\packages\\autoupdater.net.official\\1.8.3\\autoupdater.net.official.1.8.3.nupkg.sha512",
     "C:\\Users\\Omar Sotomayor\\.nuget\\packages\\dg.advanceddatagridview\\1.2.28103.10\\dg.advanceddatagridview.1.2.28103.10.nupkg.sha512",
